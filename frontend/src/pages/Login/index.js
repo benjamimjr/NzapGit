@@ -139,7 +139,7 @@ const Login = () => {
                 component={RouterLink}
                 to="/signup"
               >
-                {i18n.t("login.buttons.register")}
+                
               </Link>
             </Grid>
           </Grid>

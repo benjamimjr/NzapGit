@@ -217,7 +217,7 @@ const LoggedInLayout = ({ children }) => {
             noWrap
             className={classes.title}
           >
-            WhaTicket
+            ZweiArts integração com WhatsApp
           </Typography>
           {user.id && <NotificationsPopOver />}
 
